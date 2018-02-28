@@ -1,0 +1,6 @@
+E:\学校事宜\财务报账WEB-孙晶晶\财务报账系统\财务报账系统\bin\财务报账系统.dll.config
+E:\学校事宜\财务报账WEB-孙晶晶\财务报账系统\财务报账系统\bin\财务报账系统.dll
+E:\学校事宜\财务报账WEB-孙晶晶\财务报账系统\财务报账系统\bin\财务报账系统.pdb
+E:\学校事宜\财务报账WEB-孙晶晶\财务报账系统\财务报账系统\obj\Debug\财务报账系统.csprojResolveAssemblyReference.cache
+E:\学校事宜\财务报账WEB-孙晶晶\财务报账系统\财务报账系统\obj\Debug\财务报账系统.dll
+E:\学校事宜\财务报账WEB-孙晶晶\财务报账系统\财务报账系统\obj\Debug\财务报账系统.pdb
